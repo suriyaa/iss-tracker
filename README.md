@@ -2,7 +2,7 @@
 > Tracks the current location of ISS using open-notify APIs and Google Maps APIs.
 
 #### Website
-Live at [https://suriyaakudoisc.github.io/sw-iss-tracker](https://suriyaakudoisc.github.io/sw-iss-tracker)
+Live at [https://suriyaakudoisc.github.io/sw-iss-tracker](https://suriyaakudoisc.github.io/sw-iss-tracker).
 
 ## Requirements
 + Node.js (> 0.11.0)
